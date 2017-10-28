@@ -1,2 +1,3 @@
 # 4hathacker
-It contains codes from blogposts of 4hathacker.in
+It contains python codes from blogposts of 4hathacker.in
+
