@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=power
+Exec=/home/nitin/Desktop/power.py
+Terminal=true
+Type=Application
